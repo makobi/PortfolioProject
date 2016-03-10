@@ -15,7 +15,7 @@ header > h1 {
   text-align: center;
 }
 
-header > ul {
+header > .nav > ul {
   list-style: none;
   margin: 0;
   padding: 0;
@@ -23,7 +23,7 @@ header > ul {
 }
 
 ul > li {
-  float: left;
+  display: inline;
   margin: 0 5px;
 }
 
